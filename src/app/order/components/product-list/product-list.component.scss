@@ -1,0 +1,11 @@
+.grid-container {
+  margin: 20px;
+}
+
+::ng-deep .tile .mat-grid-tile .mat-figure {
+  margin: 20px !important;
+}
+
+.dashboard-card-content {
+  text-align: center;
+}
